@@ -4,10 +4,11 @@ This project is an educational cybersecurity project focused on understanding
 keylogging threats and implementing defensive detection techniques.
 
 ## Project Overview
-- Analyzed different types of keyloggers and their impact on system security
-- Implemented a Python-based tool to detect suspicious processes
-- Used Indicators of Compromise (IOCs) for threat identification
-- Designed for educational and defensive security purposes only
+- Analyzes different types of keylogging threats and their impact on system security
+- Scans running processes on a Windows system to detect suspicious behavior
+- Uses Indicators of Compromise (IOCs) for threat identification
+- Alerts the user if a suspicious process is detected
+- Designed for educational and defensive security purposes
 
 ## Technologies Used
 - Python
